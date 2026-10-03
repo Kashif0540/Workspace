@@ -31,7 +31,7 @@ This repository is the [OpenClaw](https://openclaw.ai) workspace for **Ben**, a 
 ├── TOOLS.md                       # Environment-specific notes (devices, hosts, voices)
 ├── HEARTBEAT.md                   # Checklist for periodic heartbeat polls
 ├── openclaw-workspace-state.json  # OpenClaw bootstrap/setup metadata
-└── .gitignore                     # Excludes nested project repos
+└── .gitignore                     # Excludes the nested Tech Nexus repo
 ```
 
 ### File Reference
@@ -86,10 +86,9 @@ During heartbeats, Ben periodically reviews the daily notes and promotes what's 
 
 ## Related Repositories
 
-These projects live alongside the workspace but are tracked in their own repositories and excluded via `.gitignore`:
+This project lives alongside the workspace but is tracked in its own repository and excluded via `.gitignore`:
 
 - **Tech Nexus**: [ai-powered-news-agent](https://github.com/Kashif0540/ai-powered-news-agent)
-- **coinflip-spike**: separate repository
 
 ---
 
