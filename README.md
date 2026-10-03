@@ -88,7 +88,7 @@ During heartbeats, Ben periodically reviews the daily notes and promotes what's 
 
 This project lives alongside the workspace but is tracked in its own repository and excluded via `.gitignore`:
 
-- **Tech Nexus**: [ai-powered-news-agent](https://github.com/Kashif0540/ai-powered-news-agent)
+- **Tech Nexus**: [Tech-Nexus_ai-powered-news-agent](https://github.com/Kashif0540/Tech-Nexus_ai-powered-news-agent)
 
 ---
 
